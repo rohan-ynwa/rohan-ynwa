@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rohan
-- 👀 I’m interested in web devlopement and bioinformatics
+- 👀 I’m interested in web development and bioinformatics
 - 🌱 I’m currently learning ... React
 
 <!---
